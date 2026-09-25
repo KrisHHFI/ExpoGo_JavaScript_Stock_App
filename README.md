@@ -11,7 +11,6 @@
 - A light/dark theme and English/Finnish language settings can be toggled.
 - The users saved stocks, notes and preferences are saved to the device via data tables.
 - The project was not continued after the course. However, the idea may be developed in a future project.
-- Check out the [demo video](https://www.youtube.com/watch?v=bKQu5dr6vQ4).
 <br>
 
 ## Features
